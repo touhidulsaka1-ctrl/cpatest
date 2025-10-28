@@ -14,7 +14,7 @@ $config = array(
      * Proceed with extreme caution. We do not recommend setting this to true unless specifically instructed to by technical support
      */
 
-    "default" => "install",
+    "default" => "b9c6a39",
     /*
     * This is the default URI that is used when someone visits the root of your website
     * The default is "install" - this is a keyword that displays the installation process
@@ -53,5 +53,6 @@ $config = array(
     /*
      * The UNIX timestamp of when this package was downloaded. Do not edit.
      */
+
 
 );
